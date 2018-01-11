@@ -5,7 +5,7 @@ Let's start fighting!
 [operation guide]
 Hold down the kitten and open the mouth, while holding two hands can let two kittens open their mouth, do not miss the small fish Oh! Start fighting!
 
-* `[contact us]`
+# Contact Us
 
 * Phone:`205-78654237`
 
