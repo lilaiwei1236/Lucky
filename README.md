@@ -4,9 +4,13 @@ In the game, the kittens see the fish competition. Now the guys are going to hel
 Let's start fighting!
 [operation guide]
 Hold down the kitten and open the mouth, while holding two hands can let two kittens open their mouth, do not miss the small fish Oh! Start fighting!
-![]()
-![]()
-![]()
+
+![](https://github.com/lilaiwei1236/Lucky/blob/master/01.png)
+
+![](https://github.com/lilaiwei1236/Lucky/blob/master/02.png)
+
+![](https://github.com/lilaiwei1236/Lucky/blob/master/03.png)
+
 # Contact Us
 
 * Phone:`205-78654237`
