@@ -1,25 +1,26 @@
-#       TB Secnic Recommend ！
+#       TB Tank ！
 
-![](https://github.com/lilaiwei1236/Lucky/blob/master/secnic.png)
+![](https://github.com/lilaiwei1236/Lucky/blob/master/tank.png)
 
-## [Product Characteristics]
+## [Description]
 
-1. the recommendation of a selection of multiple attractions is worth a look at.
-2. to see the history of China for nearly 200 years to Beijing, to see the history of China for thousands of years to Xi'an, to see the future China to Shanghai.
-3. clothes, bags and accessories are all complete, to create a full and pure sexy, fashion feature
-4. men! Capricious collocation, show you
+The world of gunfire tank is full of smoke, and you need to drive tanks to kill all the enemies. As a basic SOLDIER unit, the most important thing to smell is the smell of gunpowder and dust after the gun fire, which is mainly choking. The flare, the shocker will also have the smell of burning magnesium powder, most of the smoke has peculiar smell, suction more will hurt the respiratory tract.
+Game play:
 
 
-## [Recommended Reasons]
+## [Control Guide]
 
-Life is a journey.
-Man's life is on the journey, until the end. Walk, be busy. Look around the scenery and keep the head down. The meaning of travel is different for everyone. Some people have leisure, relaxation, a breathable, someone looking for some kind of stimulation. Some people enjoy the scenery and some people take pictures. Some people seek life. Someone has been injured. Some people want to look at the earth more. There are other people who are greasy in a place and go to a place where others are greasy. When I was a child, there was a program in Shandong TV, called "people on the journey". At the end, it's all flakes of red leaves falling, the fat, eyeglasses of the host are all fluttered.
+Control the tank up and down to find and attack the enemy, the game has the repair of tank armor position, please pay attention to the search.
 
 2018 desirable tourism choice tools
 ## [Contact Us]
 
-* Email:qh91938180@sina.com
+* Email:Apx798@163.com
 * PhoneNumber:+8618704397673
+
+
+
+
 
 
 
