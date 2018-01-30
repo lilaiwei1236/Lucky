@@ -1,19 +1,13 @@
-#       TB Tank ！
+#                        Keep Dog ！
 
 ![](https://github.com/lilaiwei1236/Lucky/blob/master/madDog.png)
 
 ## [Description]
 
-The world of gunfire tank is full of smoke, and you need to drive tanks to kill all the enemies. As a basic SOLDIER unit, the most important thing to smell is the smell of gunpowder and dust after the gun fire, which is mainly choking. The flare, the shocker will also have the smell of burning magnesium powder, most of the smoke has peculiar smell, suction more will hurt the respiratory tract.
-Game play:
-
-
-## [Control Guide]
-
-Control the tank up and down to find and attack the enemy, the game has the repair of tank armor position, please pay attention to the search.
+The APP is a practical and novel dog lovers dog owners manual and guide the compilation, it is the dog's human friend introduces 100 kinds of the most suitable kind of dog breeding, and the margin, characteristics, value, mental and physiological structure and other aspects have made a vivid description. On how to choose a good dog, dog, dog care arrangements for apartments and the dog food, dog training, dog training, dog dog dog travel, wash, dress, in a dog show, dog and dog disease treatment breed and other related links, this book provides professional advice - friendly it is easy to operate.
 
 2018 desirable tourism choice tools
 ## [Contact Us]
 
-* Email:Apx798@163.com
-* PhoneNumber:+8618704397673
+* Email:madGo@gmail.com
+* PhoneNumber:+8613788765643
