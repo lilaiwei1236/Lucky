@@ -1,14 +1,19 @@
-tl.gamepost.com 13858187432
+#       TB Tank ！
+
+![](https://github.com/lilaiwei1236/Lucky/blob/master/madDog.png)
+
+## [Description]
+
+The world of gunfire tank is full of smoke, and you need to drive tanks to kill all the enemies. As a basic SOLDIER unit, the most important thing to smell is the smell of gunpowder and dust after the gun fire, which is mainly choking. The flare, the shocker will also have the smell of burning magnesium powder, most of the smoke has peculiar smell, suction more will hurt the respiratory tract.
+Game play:
 
 
-Mechanical tank game coin increase the amount of equipment to operate their own powerful gestures to control entertainment object Taobao fun guide opening shot of love about conquering time
+## [Control Guide]
 
-硝烟的味道，你需要驾驶坦克消灭所有的敌人，小伙伴们快来挑战一下吧。
-游戏玩法：
-控制坦克上下左右移动寻找并攻击敌方，游戏中有修复坦克装甲的位置，请注意寻找。
+Control the tank up and down to find and attack the enemy, the game has the repair of tank armor position, please pay attention to the search.
 
+2018 desirable tourism choice tools
+## [Contact Us]
 
-The embodiment of mechanical tanks, invincible, winning gold in the game, and thus enhance their combat effectiveness and equipment level!
-Operation guide:
-The gestures control the movement, move forward and jump forward, and backwards slide gesture to remove the road obstacle.
-It's time to show your real technology. Go to men!
+* Email:Apx798@163.com
+* PhoneNumber:+8618704397673
