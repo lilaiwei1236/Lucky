@@ -1,26 +1,20 @@
-#       TB Tank ！
+#            MASTER OF FOOTBALL
 
-![](https://github.com/lilaiwei1236/Lucky/blob/master/tanklll.png)
+![](https://github.com/lilaiwei1236/Lucky/blob/master/footBALL.png)
+
+## [Operation]
+
+In the game, the little elk went to see the football penalty match, but the little crocodile didn't let it win the championship. The football of the little elk was very high. Now let's go and help the little elk. Maybe with your help, the little elk can win the championship.
+Let's start fighting!
+
 
 ## [Description]
 
-The world of gunfire tank is full of smoke, and you need to drive tanks to kill all the enemies. As a basic SOLDIER unit, the most important thing to smell is the smell of gunpowder and dust after the gun fire, which is mainly choking. The flare, the shocker will also have the smell of burning magnesium powder, most of the smoke has peculiar smell, suction more will hurt the respiratory tract.
-Game play:
-
-
-## [Control Guide]
-
-Control the tank up and down to find and attack the enemy, the game has the repair of tank armor position, please pay attention to the search.
+A puzzle football game, to play your talent, football, a sport is dominated by feet, the two teams in the same field offensive and defensive sports. It is the most popular sports in the world, the most extensive and the most influential sports, known as the "world's first movement". Dominated by the foot ball, but you can also use the head and chest and other parts of the ball (except the goalkeeper, the other players may not touch the ball; only in one's own hand or arm goalkeeper in the area, with the ball, touch hands or arms can not in the area outside the hands, each ball) with two teams, each most sports project team members and 11 at the same venue;
 
 2018 desirable tourism choice tools
 ## [Contact Us]
 
-* Email:Apx798@163.com
-* PhoneNumber:+8618704397673
-
-
-
-
-
+* Email:footLev@gmail.com
 
 
