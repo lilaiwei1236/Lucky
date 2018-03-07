@@ -1,6 +1,6 @@
 #                        Kung Fu Football ！
 
-![](https://github.com/lilaiwei1236/Lucky/blob/master/WorldShoot.png)
+![](https://github.com/lilaiwei1236/Lucky/blob/master/KungFuFootball.png)
 
 ## [Description]
 
