@@ -1,6 +1,6 @@
 #       Secnic Recommend ！
 
-![](https://github.com/lilaiwei1236/Lucky/blob/master/Secnic.png)
+![](https://github.com/lilaiwei1236/Lucky/blob/master/Science.png)
 
 ## [Product Characteristics]
 
